@@ -1,0 +1,16 @@
+.led {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-bottom: 5px;
+  margin-left: 320px;
+  margin-top: 10px;
+}
+
+.led-on {
+  background-color: red;
+}
+
+.led-off {
+  background-color: gray;
+}
